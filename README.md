@@ -4,7 +4,7 @@
 This is a command-line calculator built as part of the 100 Days of Python challenge. It supports basic arithmetic operations and demonstrates function composition, user input handling, and loop control.
 
 🚀 Features
-- Addition, subtraction, multiplication, division
+- Addition, subtraction, multiplication, division, exponentiation, modulus
 - Continuous calculation with previous result
 - Graceful exit and input validation
 - Modular design using functions
@@ -16,9 +16,8 @@ This is a command-line calculator built as part of the 100 Days of Python challe
 - ASCII art and user experience enhancements
 
 📂 Files
-|         |  | 
-| main.py |  | 
-| art.py  |  | 
+main.py
+art.py
 
 
 🛠️ How to Run
